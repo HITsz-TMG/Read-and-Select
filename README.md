@@ -1,6 +1,6 @@
 # read-and-select
 <p align="center">
-  <img src="pic/res-v2.png" width="650"/>
+  <img src="pics/res-v2.jpg" width="650"/>
 </p>
 
 ### Environment
