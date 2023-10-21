@@ -1,6 +1,6 @@
 # read-and-select
 <p align="center">
-  <img src="pic/re-ranker-v5.png" width="650"/>
+  <img src="pic/res-v2.png" width="650"/>
 </p>
 
 ### Environment
