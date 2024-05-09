@@ -1,1 +1,1 @@
-Please download the checkpoint [here](https://drive.google.com/drive/folders/1Fd4ojyqcga0hM6-hSkrOezrcJX7l76hb?usp=sharing)
+Please download the checkpoint [here](https://1drv.ms/u/s!AoTJ9uWa69GGf3Rr-zCtO14Nvyo?e=CFWExB)
