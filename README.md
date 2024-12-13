@@ -5,7 +5,7 @@
 
 ### Environment
 ```
-conda activate -n res python=3.9
+conda creat -n res python=3.9
 conda activate res
 pip install -r requirements.txt
 ```
